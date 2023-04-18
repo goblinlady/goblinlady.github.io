@@ -1,10 +1,11 @@
 * 导航
-** 搜索引擎
+** 资料搜索
+*** 搜索引擎
 | [[https://duckduckgo.com/][DuckDuckGo]] | [[https://www.google.com][Google]] |
 | [[https://www.bing.com][Bing]]       | [[https://www.baidu.com][屑度]]   |
 | [[https://search.ononoki.org][SearXNG]]    |        |
-** 多语言
-*** 翻译
+*** 多语言
+**** 翻译
 | [[https://translate.google.com/][Google Translate]]     |
 | [[https://www.wiktionary.org/][Wiktionary]]           |
 | [[https://www.bing.com/Translator][Bing Translator]]      |
@@ -12,7 +13,7 @@
 | [[https://www.merriam-webster.com/][Merriam-Webster]]      |
 | [[https://dictionary.cambridge.org/us/translate/][Combridge Dictionary]] |
 | [[https://www.translate.com/][Translate.com]]        |
-*** 词典
+**** 词典
 | [[https://www.bing.com/dict][Bing dict]]         |
 | [[https://youdao.com/][有道]]              |
 | [[https://www.abbreviations.com/][Abbreviations.com]] |
@@ -25,7 +26,7 @@
 | [[https://glosbe.com/][Glosbe]]            |
 | [[https://ilotokipona.com/][ilo toki pona]]     |
 | [[https://la-lojban.github.io/sutysisku/lojban/index.html][logola sutysisku]]  |
-** 学术搜索
+*** 学术搜索
 | [[https://sci-hub-links.com/][SCI-HUB Links]]   |
 | [[https://arxiv.org/][arXiv]]           |
 | [[https://libgen.li/][Library Genesis]] |
@@ -34,7 +35,7 @@
 | [[http://www.cqvip.com/][维普网]]          |
 | [[https://www.wanfangdata.com.cn/][垃圾万方]]        |
 | [[https://www.cnki.net/][垃圾知网]]        |
-** Wiki
+*** Wiki
 | [[https://wiki.archlinux.org/][ArchWiki]]    |
 | [[https://www.wikidata.org/wiki/Wikidata:Main_Page][Wikidata]]    |
 | [[https://thehiddenwiki.org/][Hidden Wiki]] |
@@ -42,45 +43,206 @@
 | [[https://www.wikihow.com/Main-Page][wikiHow]]     |
 | [[https://zh.moegirl.org.cn/Mainpage][萌娘百科]]    |
 | [[https://hmoegirl.info/Mainpage][H萌娘]]       |
-** 专业性图书馆
+*** 专业性图书馆
 | [[https://www.marxists.org/chinese/][中文马克思主义文库]]    |
 | [[https://theanarchistlibrary.org/special/index/][The Anarchist Library]] |
 | [[https://freecomputerbooks.com/][FreeComputerBooks.com]] |
 | [[https://libretexts.org/][LibreTexts]]            |
-** 文档
+*** 文档
 | [[https://ruby-doc.org/][Ruby-Doc]]      |
 | [[https://docs.ruby-lang.org/en/][ruby-lang.org]] |
-** 资源
+*** 资源
 | [[https://web.archive.org/][互联网档案库]]   |
 | [[https://archive.org/web/][互联网档案库]]   |
 | [[https://jingzhunyun.com/][精准云工具]]     |
 | [[https://www.toolnb.com/][爱资料工具]]     |
 | [[https://thepiratebay.org/index.html][The Pirate Bay]] |
 | [[https://en.btdig.com/index.htm][BTDigg]]         |
-** 查询
+*** 查询
+**** 软件查询
 | [[https://alternativeto.net/][AlternativeTo(查替代软件)]]         |
 | [[https://www.topbestalternatives.com/][Top Best Alternatives(查替代软件)]] |
-| [[https://isbnsearch.org/][查ISBN号]]                          |
 | [[https://fileinfo.com/][FileInfo.com(查文件类型)]]          |
 | [[https://www.fileformat.com/][FILEFORMAT(查文件类型)]]            |
-| [[https://xranks.com/][Xranks(网站排名)]]                  |
-| [[https://gs.statcounter.com/][Statcounter]]                       |
-| [[https://plausible.io/][Plausible(网站分析)]]               |
-| [[https://www.ip138.com/][iP138查询网]]                       |
-| [[https://www.ranker.com/][Ranker(各种排名)]]                  |
+**** 游戏查询
 | [[https://www.gamesdatabase.org/][Games Database(游戏查询)]]          |
 | [[https://myvideogamelist.com/][MyVideoGameList.com(游戏查询)]]     |
 | [[https://www.igdb.com/discover][IGDB(游戏查询)]]                    |
 | [[https://steampeek.hu/][SteamPeak(游戏查询)]]               |
+**** 动画查询
 | [[https://anidb.net/][AniDB(动画查询)]]                   |
 | [[https://myanimelist.net/][MyAnimeList(动画查询)]]             |
 | [[https://anilist.co/][AniList(动画查询)]]                 |
+**** 影视查询
 | [[https://www.imdb.com/][IMDB(电影查询)]]                    |
+**** 图书查询
+| [[https://isbnsearch.org/][查ISBN号]]                          |
 | [[https://www.book-info.com/index.htm][book-info.com(图书查询)]]           |
-| [[https://myoji-yurai.net/][名字検索(日文名查询)]]              |
-| [[https://name.sijisuru.com/][なまえさあち(姓名搜索)]]            |
-| [[https://www.xiangha.com/][香哈(菜谱)]]                        |
-| [[https://zhaotaici.cn/][找台词(台词溯源)]]                  |
-| [[https://www.slant.co/][Slant(产品排名)]]                   |
-| [[https://linux-hardware.org/][Hardware for Linux]]                |
+**** 其它查询
+| [[https://gs.statcounter.com/][Statcounter]]            |
+| [[https://myoji-yurai.net/][名字検索(日文名查询)]]   |
+| [[https://name.sijisuru.com/][なまえさあち(姓名搜索)]] |
+| [[https://www.xiangha.com/][香哈(菜谱)]]             |
+| [[https://zhaotaici.cn/][找台词(台词溯源)]]       |
+| [[https://xranks.com/][Xranks(网站排名)]]       |
+| [[https://plausible.io/][Plausible(网站分析)]]    |
+| [[https://www.ip138.com/][iP138查询网]]            |
+| [[https://www.ranker.com/][Ranker(各种排名)]]       |
+| [[https://www.slant.co/][Slant(产品排名)]]        |
+| [[https://linux-hardware.org/][Hardware for Linux]]     |
 
+** 计算机相关
+*** 代码相关
+**** 代码托管
+| [[https://github.com/][Github]] |
+| [[https://about.gitlab.com/][GitLab]] |
+| [[https://gitee.com/][码云]]   |
+**** 解析
+| [[https://rubular.com/][Rubular(正则)]]      |
+| [[https://regexr.com/][RegExr(正则)]]       |
+| [[https://jsonformatter.org/][JSON formatter]]     |
+| [[https://www.bejson.com/][Be JSON 在线格式化]] |
+| [[https://jsonlint.com/][JSONLint]]           |
+| [[https://jsongrid.com/][JsonGrid]]           |
+| [[https://www.sojson.com/][SO JSON]]            |
+| [[https://jsonhero.io/][JSON Hero]]          |
+| [[https://www.freeformatter.com/][FreeFormatter.com]]  |
+**** API
+| [[https://www.mulesoft.com/programmableweb][ProgrammableWeb]]    |
+| [[https://jsonplaceholder.typicode.com/][{JSON} Placeholder]] |
+| [[https://www.toptal.com/developers/postbin/][PostBin]]            |
+| [[https://pipedream.com/requestbin][RequestBin]]         |
+**** 沙盒
+| [[https://jsbin.com/][JS Bin]]                                    |
+| [[https://codesandbox.io/][CodeSandbox]]                               |
+| [[https://jsfiddle.net/][JSFiddle]]                                  |
+| [[https://playcode.io/][PLAYCODE]]                                  |
+| [[https://pythontutor.com/][Python Tutor(可视化调试)]]                  |
+| [[http://dustinzeisler.com/visualize_ruby/][Visualize Ruby]]                            |
+| [[https://try.ruby-lang.org/][TryRuby]]                                   |
+| [[https://replit.com/][replit(在线IDE)]]                           |
+| [[http://magjac.com/graphviz-visual-editor/][Graphviz Visual Editor]]                    |
+| [[https://edotor.net/][Edotor]]                                    |
+| [[https://dreampuf.github.io/GraphvizOnline/][Graphviz Online]]                           |
+| [[https://visualgo.net/en][VisuAlgo(算法可视化)]]                      |
+| [[https://www.cs.usfca.edu/~galles/visualization/Algorithms.html][Data Structure Visualizations(算法可视化)]] |
+| [[https://algostructure.com/index.php][Algostructure(算法可视化)]]                 |
+| [[https://d3gt.com/index.html][D3 Graph Theory(图论可视化)]]               |
+**** 框架
+| [[https://getbootstrap.com/][Bootstrap]]                       |
+| [[https://www.makeareadme.com/][Make a README]]                   |
+| [[https://rahuldkjain.github.io/gh-profile-readme-generator/][GitHub Profile README Generator]] |
+| [[https://choosealicense.com/][Choose an open source license]]   |
+*** 库
+| [[https://rubygems.org/][RubyGems]]                |
+| [[https://gems.ruby-china.com/][RubyGems中文镜像站]]      |
+| [[https://gpo.zugaina.org/][Gentoo Portage Overlays]] |
+*** 文本分享&输入
+| [[https://pastebin.ubuntu.com/][Ubuntu Pastebin]]  |
+| [[https://pastebin.com/][Pastebin.com]]     |
+| [[https://gate2home.com/][Gate2Home]]        |
+| [[https://www.lexilogos.com/keyboard/index.htm][LEXILOGOS]]        |
+| [[https://symbl.cc/en/][Unicode 字符百科]] |
+*** 网络工具
+**** IP地址
+| [[https://whatismyipaddress.com/][What Is My IP Address]] |
+| [[https://www.ipaddress.my/][IPAddress.my]]          |
+**** 赛博生活
+| [[https://www.shodan.io/][Shodan]]  |
+| [[https://www.zoomeye.org/][ZoomEye]] |
+| [[https://en.fofa.info/][FOFA]]    |
+| [[https://www.opengps.cn/][openGPS]] |
+*** 平台
+| [[https://www.heroku.com/home][Heroku]] |
+
+** 多媒体
+*** 图片相关
+**** 搜图
+| [[https://images.google.com][Google图片]]                                            |
+| [[https://saucenao.com/index.php][saucenao(可以搜P站图片)]]                               |
+| [[https://tineye.com/][TinEye]]                                                |
+| [[https://www.bing.com/visualsearch?mkt=zh-CN][Bing视觉]]                                              |
+| [[https://pic.sogou.com/][搜狗识图]]                                              |
+| [[https://gfsoso.soik.top/image.html][谷粉识图]]                                              |
+| [[https://yandex.com/images][Yandex搜图]]                                            |
+| [[https://trace.moe/][trace.moe --Anime Scene Search Engine(搜动画截图出处)]] |
+| [[https://thumbnailsave.com/][Thumbnail Save(搜油管视频封面)]]                        |
+| [[https://www.strerr.com/][YouTube封面下载]]                                       |
+| [[https://graph.baidu.com/pcpage/index?tpl_from=pc][屑度识图]]                                              |
+**** 贴图板
+| [[https://pasteboard.co/][Pasteboard]] |
+| [[https://imgur.com/][imgur]]      |
+**** 画图&图像处理
+| [[http://app.inker.co/][Inker(矢量图)]]                      |
+| [[https://www.processon.com/][ProcessOn(思维导图流程图等)]]        |
+| [[https://www.suxieban.com/page/note/tools.html][速写板]]                             |
+| [[https://www.youidraw.com/apps/painter/][YouiDraw]]                           |
+| [[https://www.iodraw.com/][ioDraw(电路图等)]]                   |
+| [[https://imageonline.co/][Imageonline.co(图像处理)]]           |
+| [[https://magicstudio.com/magiceraser][Magic Eraser(擦图)]]                 |
+| [[https://www.online-image-editor.com/][Free Online Image Editor(图像处理)]] |
+| [[https://pixlr.com/x/][Pixlr X(图像处理)]]                  |
+| [[https://waifu2x.udp.jp/][waifu2x(清晰化处理)]]                |
+| [[https://bigjpg.com/][Bigjpg(清晰化处理)]]                 |
+| [[https://imglarger.com/][AI Image Enlarger(清晰化处理)]]      |
+| [[https://www.autotracer.org/zh.html][Autotracer(矢量图描摹)]]             |
+| [[https://zh.vectormagic.com/][Victor Magic(矢量图描摹)]]           |
+*** 视频相关
+**** 视频提取
+| [[http://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html][m3u8 视频在线提取工具]]           |
+| [[https://www.savetweetvid.com/zh][savetweetvid(Twitter视频下载器)]] |
+| [[https://www.getfvid.com/zh/twitter][getfvid(Twitter视频下载器)]]      |
+| [[https://pastedownload.com/29/][Video Downloader]]                |
+| [[https://ssyoutube.com/en565/][Online Video Downloader]]         |
+*** 音频相关
+**** 声音
+| [[https://www.lalal.ai/][LALAL.AI]]   |
+| [[https://www.mp3juices.cc/f82][MP3 Juice]]  |
+| [[https://www.findsounds.com/][FindSounds]] |
+**** 音乐
+| [[https://qiuxiang.github.io/tuner/app/][Online Tuner]]       |
+| [[https://tuner-online.com/][Tuner-Online.com]]   |
+| [[https://www.imusic-school.com/en/][imusic-school]]      |
+| [[https://www.songsterr.com/][Songsterr]]          |
+| [[https://imslp.org/wiki/Main_Page][IMSLP]]              |
+| [[https://www.audiokeychain.com/][AudioKeychain]]      |
+| [[https://www.chosic.com/music-genre-finder/][Music Genre Finder]] |
+| [[https://www.scales-chords.com/][SCALESCHORDS]]       |
+| [[https://www.getgenre.com/][getgenre]]           |
+| [[https://hymnary.org/][Hymnary.org]]        |
+| [[https://www.musipedia.org/][Musipedia]]          |
+| [[https://www.aha-music.com/][AHA Music]]          |
+| [[https://www.listennotes.com/][Listen Notes]]       |
+| [[https://search.audioburst.com/][Audioburst]]         |
+| [[http://www.peachnote.com/][Music Ngram Viewer]] |
+*** 3D模型
+| [[https://free3d.com/][Free3D.com]] |
+| [[https://sketchfab.com/feed][Sketchfab]]  |
+| [[https://www.stlfinder.com/][STLFinder]]  |
+| [[https://cults3d.com/en/][Cults]]      |
+| [[https://www.turbosquid.com/][TurboSquid]] |
+| [[https://3dhunt.co/][3DHunt.co]]  |
+| [[https://grabcad.com/][GrabCAD]]    |
+*** 宇宙万物
+**** 物种相关
+| [[https://identify.plantnet.org][Pl@ntNet(植物识别)]] |
+| [[https://animal.buyaocha.com/][动物在线识别]]       |
+| [[http://shibietu.wwei.cn/][识别图]]             |
+| [[https://www.toolnb.com/tools/dongwushibie.html][动物图片识别]]       |
+| [[https://www.onezoom.org/][OneZoom(物种树)]]    |
+**** 地图/海图/航线
+| [[https://www.google.com/maps/][Google Maps]]  |
+| [[https://earth.google.com/web/][Google Earth]] |
+| [[https://map.openseamap.org/][OpenSeaMap]]   |
+**** 天文
+| [[https://www.theplanetstoday.com/the_planets.html][The Planets Today]] |
+**** 时间
+| [[https://time.is/][TIME.IS]]             |
+| [[https://www.timezoneconverter.com/][Time Zone Converter]] |
+| [[https://www.foragoodstrftime.com/][For a Good Strftime]] |
+*** 综合素材
+| [[https://opengameart.org/][OpenGameArt.org]] |
+| [[https://www.shutterstock.com/][Shutterstock]]    |
+| [[https://file-examples.com/][File Examples]]   |
+
+** 写作/文创
