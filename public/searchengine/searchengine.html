@@ -5,38 +5,114 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Search</title>
+<title>&lrm;</title>
 <meta name="generator" content="Org Mode" />
 <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
 </head>
 <body>
 <div id="content" class="content">
-<h1 class="title">Search</h1>
-<form
-    id="from_duckduckgo"
-    action="https://duckduckgo.com/?"
-    method="get"
-    class="search_form"
-    target="_blank"
-    style="display: block"
->
-    <label for="keyword"> </label>
-    <input
-    class="search_box"
-    name="q"
-    placeholder="DuckDuckGo"
-    type="text"
-    value=""
-    style="background: #ff5e0037"
-    onclick="this.select()"
-    />
-    <input
-    class="submit"
-    type="submit"
-    value="submit"
-    style="background: #ff5e00"
-    />
-</form>
+<div id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#org4d79d2e">Search</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org4d79d2e" class="outline-2">
+<h2 id="org4d79d2e">Search</h2>
+<div class="outline-text-2" id="text-org4d79d2e">
+<textarea
+   type="text"
+   placeholder="便笺: 可在此列出关键词."
+   value=""
+   style="
+   width: 100%;
+   height: 100px;
+   border-radius: 7px;
+   border: none;
+   resize: none;
+   ">
+</textarea>
+<td id="from_box" style="float: left">
+   <form
+      id="from_duckduckgo"
+      action="https://duckduckgo.com/?"
+      method="get"
+      class="search_form"
+      target="_blank"
+      style="display: block"
+      >
+      <label for="keyword"> </label>
+      <input
+         class="search_box"
+         name="q"
+         placeholder="DuckDuckGo"
+         type="text"
+         value=""
+         style="background: #ff5e0037"
+         onclick="this.select()"
+         />
+      <input
+         class="submit"
+         type="submit"
+         value="submit"
+         style="background: #ff5e00"
+         />
+   </form>
+   <form
+      id="from_google"
+      action="http://www.google.com/search"
+      method="get"
+      class="search_form"
+      target="_blank"
+      style="display: block"
+      >
+      <label for="keyword"> </label>
+      <input
+         class="search_box"
+         name="q"
+         placeholder="Google"
+         type="text"
+         value=""
+         style="background: #4285f443"
+         onclick="this.select()"
+         />
+      <input
+         class="submit"
+         type="submit"
+         value="submit"
+         style="background: #4285f4"
+         />
+   </form>
+   <form
+      id="from_bing"
+      action="https://www.bing.com/search"
+      method="get"
+      class="search_form"
+      target="_blank"
+      style="display: block"
+      >
+      <label for="keyword"> </label>
+      <input
+         class="search_box"
+         name="q"
+         placeholder="Bing"
+         type="text"
+         value=""
+         style="background: #00837335"
+         onclick="this.select()"
+         />
+      <input
+         class="submit"
+         type="submit"
+         value="submit"
+         style="background: #008373"
+         />
+   </form>
+</td>
+</div>
+</div>
 </div>
 <div id="postamble" class="status">
 <p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 28.2 (<a href="https://orgmode.org">Org</a> mode 9.5.5)</p>
