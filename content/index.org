@@ -1,4 +1,8 @@
 #+TITLE: 瑠璃華-nav
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# Change the background of source block.
+#+HTML_HEAD: <style>pre.src{background:#343131;color:white;} </style>
 
 #+INCLUDE: "searchengine/searchengine.org"
 
+#+INCLUDE: "navigation/navigation.org"
