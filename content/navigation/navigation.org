@@ -25,3 +25,62 @@
 | [[https://glosbe.com/][Glosbe]]            |
 | [[https://ilotokipona.com/][ilo toki pona]]     |
 | [[https://la-lojban.github.io/sutysisku/lojban/index.html][logola sutysisku]]  |
+** 学术搜索
+| [[https://sci-hub-links.com/][SCI-HUB Links]]   |
+| [[https://arxiv.org/][arXiv]]           |
+| [[https://libgen.li/][Library Genesis]] |
+| [[https://scholar.google.com/][Google学术搜索]]  |
+| [[https://www.ixueshu.com/][爱学术]]          |
+| [[http://www.cqvip.com/][维普网]]          |
+| [[https://www.wanfangdata.com.cn/][垃圾万方]]        |
+| [[https://www.cnki.net/][垃圾知网]]        |
+** Wiki
+| [[https://wiki.archlinux.org/][ArchWiki]]    |
+| [[https://www.wikidata.org/wiki/Wikidata:Main_Page][Wikidata]]    |
+| [[https://thehiddenwiki.org/][Hidden Wiki]] |
+| [[https://wikileaks.org/][WikiLeaks]]   |
+| [[https://www.wikihow.com/Main-Page][wikiHow]]     |
+| [[https://zh.moegirl.org.cn/Mainpage][萌娘百科]]    |
+| [[https://hmoegirl.info/Mainpage][H萌娘]]       |
+** 专业性图书馆
+| [[https://www.marxists.org/chinese/][中文马克思主义文库]]    |
+| [[https://theanarchistlibrary.org/special/index/][The Anarchist Library]] |
+| [[https://freecomputerbooks.com/][FreeComputerBooks.com]] |
+| [[https://libretexts.org/][LibreTexts]]            |
+** 文档
+| [[https://ruby-doc.org/][Ruby-Doc]]      |
+| [[https://docs.ruby-lang.org/en/][ruby-lang.org]] |
+** 资源
+| [[https://web.archive.org/][互联网档案库]]   |
+| [[https://archive.org/web/][互联网档案库]]   |
+| [[https://jingzhunyun.com/][精准云工具]]     |
+| [[https://www.toolnb.com/][爱资料工具]]     |
+| [[https://thepiratebay.org/index.html][The Pirate Bay]] |
+| [[https://en.btdig.com/index.htm][BTDigg]]         |
+** 查询
+| [[https://alternativeto.net/][AlternativeTo(查替代软件)]]         |
+| [[https://www.topbestalternatives.com/][Top Best Alternatives(查替代软件)]] |
+| [[https://isbnsearch.org/][查ISBN号]]                          |
+| [[https://fileinfo.com/][FileInfo.com(查文件类型)]]          |
+| [[https://www.fileformat.com/][FILEFORMAT(查文件类型)]]            |
+| [[https://xranks.com/][Xranks(网站排名)]]                  |
+| [[https://gs.statcounter.com/][Statcounter]]                       |
+| [[https://plausible.io/][Plausible(网站分析)]]               |
+| [[https://www.ip138.com/][iP138查询网]]                       |
+| [[https://www.ranker.com/][Ranker(各种排名)]]                  |
+| [[https://www.gamesdatabase.org/][Games Database(游戏查询)]]          |
+| [[https://myvideogamelist.com/][MyVideoGameList.com(游戏查询)]]     |
+| [[https://www.igdb.com/discover][IGDB(游戏查询)]]                    |
+| [[https://steampeek.hu/][SteamPeak(游戏查询)]]               |
+| [[https://anidb.net/][AniDB(动画查询)]]                   |
+| [[https://myanimelist.net/][MyAnimeList(动画查询)]]             |
+| [[https://anilist.co/][AniList(动画查询)]]                 |
+| [[https://www.imdb.com/][IMDB(电影查询)]]                    |
+| [[https://www.book-info.com/index.htm][book-info.com(图书查询)]]           |
+| [[https://myoji-yurai.net/][名字検索(日文名查询)]]              |
+| [[https://name.sijisuru.com/][なまえさあち(姓名搜索)]]            |
+| [[https://www.xiangha.com/][香哈(菜谱)]]                        |
+| [[https://zhaotaici.cn/][找台词(台词溯源)]]                  |
+| [[https://www.slant.co/][Slant(产品排名)]]                   |
+| [[https://linux-hardware.org/][Hardware for Linux]]                |
+
