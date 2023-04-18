@@ -1,2 +1,4 @@
-#+TITLE: index
+#+TITLE: 瑠璃華-nav
+
+#+INCLUDE: "searchengine/searchengine.org"
 
