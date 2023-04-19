@@ -90,7 +90,6 @@
 | [[https://www.ranker.com/][Ranker(各种排名)]]       |
 | [[https://www.slant.co/][Slant(产品排名)]]        |
 | [[https://linux-hardware.org/][Hardware for Linux]]     |
-
 ** 计算机相关
 *** 代码相关
 **** 代码托管
@@ -244,5 +243,70 @@
 | [[https://opengameart.org/][OpenGameArt.org]] |
 | [[https://www.shutterstock.com/][Shutterstock]]    |
 | [[https://file-examples.com/][File Examples]]   |
-
 ** 写作/文创
+*** 数学相关
+**** 数学编辑
+| [[https://www.mathcha.io/editor][Mathcha]]                      |
+| [[https://editor.codecogs.com/][Online LaTeX Equation Editor]] |
+| [[https://viereck.ch/latex-to-svg/][LaTeX to SVG]]                 |
+| [[https://www.geogebra.org/m/jjmwgjp4][Convert LaTeX to SVG]]         |
+| [[http://www.tlhiv.org/ltxpreview/][LaTeX Previewer]]              |
+| [[https://www.overleaf.com/][Overleaf]]                     |
+**** 数学计算工具
+| [[https://www.numberempire.com/][Number Empire]]         |
+| [[https://zh.numberempire.com/][数字帝国中文]]          |
+| [[https://www.mathway.com/Algebra][Mathway(按步骤解题)]]   |
+| [[https://www.symbolab.com/][Symbolab(按步骤解题)]]  |
+| [[https://www.derivative-calculator.net/][Derivative Calculator]] |
+| [[https://reshish.com/][Reshish]]               |
+| [[https://www.desmos.com/calculator][Desmos(图像计算)]]      |
+**** 生成数据
+| [[https://www.mockaroo.com/][Mokaroo]]            |
+| [[http://www.hipenpal.com/tool/][Hi!Penpal!]]         |
+| [[https://www.qmsjmfb.com/jp.php][日文网名在线生成器]] |
+| [[https://barcode.tec-it.com/zh/][生成条形码]]         |
+| [[https://www.gushici.com/cyjl][成语接龙]]           |
+**** 数据分析&可视化
+| [[https://www.rawgraphs.io/][RAWGraphs]] |
+*** 写作相关
+**** 写作
+| [[https://www.bibme.org/][BibMe]]            |
+| [[https://www.citationmachine.net/][Citation Machine]] |
+**** 演示
+| [[https://tiermaker.com/][TierMaker]] |
+**** LaTeX
+| [[https://www.overleaf.com/][Overleaf]]         |
+| [[http://www.tlhiv.org/ltxpreview/][LaTeX Previewer]]  |
+| [[https://www.tablesgenerator.com][Tables Generator]] |
+*** 文件处理
+| [[https://www.vertopal.com/][Vertopal(文件转换)]]                    |
+| [[https://onlinecsvtools.com/][Online CSV Tools]]                      |
+| [[https://www.splitcsv.com/][SplitCSV]]                              |
+| [[https://www.convertcsv.com/][ConvertCSV]]                            |
+| [[https://convertio.co/][Convertio]]                             |
+| [[https://www.aconvert.com/][Aconvert.com]]                          |
+| [[https://www.sejda.com/][Sejda]]                                 |
+| [[https://www.onlineocr.net/][Free Online OCR]]                       |
+| [[http://pdftoword-converter.online/][PDF to Word]]                           |
+| [[https://www.freepdfconvert.com/zh-cn][PDF Converter]]                         |
+| [[https://www.ilovepdf.com/zh-cn][iLovePDF]]                              |
+| [[https://xodo.com/][Xodo(PDF处理)]]                         |
+| [[https://djvu2pdf.com/][DjVu to PDF]]                           |
+| [[https://pdfcandy.com/][PDF Candy]]                             |
+| [[https://www.zamzar.com/][Zamzar]]                                |
+| [[https://cloudconvert.com/][CloudConvert]]                          |
+| [[https://www.markdowntopdf.com/][Markdown to PDF]]                       |
+| [[https://bakerfranke.github.io/codePrint/][AP PT CodePrint(代码出PDF)]]            |
+| [[https://nsspot.herokuapp.com/code2pdf/][Convert Source Code to PDF(代码出PDF)]] |
+| [[https://ezgif.com/][EZGIF(GIF编辑)]]                        |
+| [[https://gif-explode.com/][GIF Explode]]                           |
+
+** 新闻/调查
+*** 新闻
+| [[https://abcnews.go.com/][ABC News(US)]]   |
+| [[https://www.bbc.com/zhongwen/simp][BBC News中文]]   |
+| [[https://www.abc.net.au/news][ABC News(AU)]]   |
+| [[https://freecomputerbooks.com/read/chinese.html][中英文网址小集]] |
+*** 数据来源
+| [[https://ourworldindata.org/][Our World in Data]] |
+| [[https://www.top500.org/][TOP500]]            |
