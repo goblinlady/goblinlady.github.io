@@ -243,6 +243,16 @@
 | [[https://opengameart.org/][OpenGameArt.org]] |
 | [[https://www.shutterstock.com/][Shutterstock]]    |
 | [[https://file-examples.com/][File Examples]]   |
+*** 数码生活
+**** 密码管理
+| [[https://web.padloc.app][Padloc]] |
+**** 云服务
+| [[https://aws.amazon.com/][AWS]] |
+**** 网盘
+| [[https://my.pcloud.com/][pCloud]] |
+| [[https://www.jianguoyun.com/][坚果云]] |
+| [[https://mega.io/zh-hans][MEGA]]   |
+| [[https://pan.baidu.com/][度盘]]   |
 ** 写作/文创
 *** 数学相关
 **** 数学编辑
