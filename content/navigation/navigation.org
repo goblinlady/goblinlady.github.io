@@ -58,6 +58,7 @@
 | [[https://www.toolnb.com/][爱资料工具]]     |
 | [[https://thepiratebay.org/index.html][The Pirate Bay]] |
 | [[https://en.btdig.com/index.htm][BTDigg]]         |
+| [[https://www.noor-book.com/en/][Noor Library]]   |
 *** 查询
 **** 软件查询
 | [[https://alternativeto.net/][AlternativeTo(查替代软件)]]         |
