@@ -3,7 +3,8 @@
 *** 搜索引擎
 | [[https://duckduckgo.com/][DuckDuckGo]] | [[https://www.google.com][Google]] |
 | [[https://www.bing.com][Bing]]       | [[https://www.baidu.com][屑度]]   |
-| [[https://search.ononoki.org][SearXNG]]    |        |
+| [[https://search.ononoki.org][SearXNG]]    | [[https://neeva.com/][neeva]]  |
+| [[https://www.qwant.com/][Qwant]]      |        |
 *** 多语言
 **** 翻译
 | [[https://translate.google.com/][Google Translate]]     |
