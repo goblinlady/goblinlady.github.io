@@ -1,10 +1,11 @@
 * 导航
 ** 资料搜索
 *** 搜索引擎
-| [[https://duckduckgo.com/][DuckDuckGo]] | [[https://www.google.com][Google]] |
-| [[https://www.bing.com][Bing]]       | [[https://www.baidu.com][屑度]]   |
-| [[https://search.ononoki.org][SearXNG]]    | [[https://neeva.com/][neeva]]  |
-| [[https://www.qwant.com/][Qwant]]      |        |
+| [[https://duckduckgo.com/][DuckDuckGo]] | [[https://www.google.com][Google]]  |
+| [[https://searx.work/][SearXNG]]    | [[https://search.ononoki.org][SearXNG]] |
+| [[https://yandex.com/][Yandex]]     | [[https://searx.thegpm.org/][searX]]   |
+| [[https://www.qwant.com/][Qwant]]      | [[https://neeva.com/][neeva]]   |
+| [[https://www.bing.com][Bing]]       | [[https://www.baidu.com][屑度]]    |
 *** 多语言
 **** 翻译
 | [[https://translate.google.com/][Google Translate]]     |
