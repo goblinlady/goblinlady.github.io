@@ -221,6 +221,7 @@
 | [[https://free3d.com/][Free3D.com]] |
 | [[https://sketchfab.com/feed][Sketchfab]]  |
 | [[https://www.stlfinder.com/][STLFinder]]  |
+| [[https://www.cgtrader.com/][cgtrader]]   |
 | [[https://cults3d.com/en/][Cults]]      |
 | [[https://www.turbosquid.com/][TurboSquid]] |
 | [[https://3dhunt.co/][3DHunt.co]]  |
