@@ -281,6 +281,7 @@
 | [[https://barcode.tec-it.com/zh/][生成条形码]]         |
 | [[https://www.gushici.com/cyjl][成语接龙]]           |
 | [[https://www.meiguodizhi.com/][美国地址生成器]]     |
+| [[https://suulnnka.github.io/BullshitGenerator/index.html][狗屁不通文章生成器]] |
 **** 数据分析&可视化
 | [[https://www.rawgraphs.io/][RAWGraphs]]  |
 | [[https://www.meta-chart.com/][Meta-Chart]] |
