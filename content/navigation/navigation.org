@@ -146,6 +146,7 @@
 | [[https://gate2home.com/][Gate2Home]]        |
 | [[https://www.lexilogos.com/keyboard/index.htm][LEXILOGOS]]        |
 | [[https://symbl.cc/en/][Unicode 字符百科]] |
+| [[https://getemoji.com/][Get Emoji]]        |
 *** 网络工具
 **** IP地址
 | [[https://whatismyipaddress.com/][What Is My IP Address]] |
