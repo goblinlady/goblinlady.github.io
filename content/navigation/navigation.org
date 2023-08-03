@@ -46,10 +46,11 @@
 | [[https://zh.moegirl.org.cn/Mainpage][萌娘百科]]    |
 | [[https://hmoegirl.info/Mainpage][H萌娘]]       |
 *** 专业性图书馆
-| [[https://www.marxists.org/chinese/][中文马克思主义文库]]    |
-| [[https://theanarchistlibrary.org/special/index/][The Anarchist Library]] |
-| [[https://freecomputerbooks.com/][FreeComputerBooks.com]] |
-| [[https://libretexts.org/][LibreTexts]]            |
+| [[https://www.marxists.org/chinese/][中文马克思主义文库]]          |
+| [[https://theanarchistlibrary.org/special/index/][The Anarchist Library]]       |
+| [[https://freecomputerbooks.com/][FreeComputerBooks.com]]       |
+| [[https://www.softwarepreservation.org/][Software Preservation Group]] |
+| [[https://libretexts.org/][LibreTexts]]                  |
 *** 文档
 | [[https://ruby-doc.org/][Ruby-Doc]]      |
 | [[https://docs.ruby-lang.org/en/][ruby-lang.org]] |
