@@ -23,6 +23,7 @@
 | [[https://www.yourdictionary.com/][YourDictionary]]    |
 | [[https://www.urbandictionary.com/][Urban Dictionary]]  |
 | [[https://www.techtarget.com/whatis/][WhatIs(技术词典)]]  |
+| [[http://foldoc.org/][FOLDOC]]            |
 | [[https://knowyourmeme.com/][Know Your Meme]]    |
 | [[https://www.stars21.com/][stars21]]           |
 | [[https://glosbe.com/][Glosbe]]            |
