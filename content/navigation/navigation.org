@@ -80,7 +80,8 @@
 | [[https://myanimelist.net/][MyAnimeList(动画查询)]]             |
 | [[https://anilist.co/][AniList(动画查询)]]                 |
 **** 影视查询
-| [[https://www.imdb.com/][IMDB(电影查询)]]                    |
+| [[https://www.imdb.com/][IMDB(电影查询)]] |
+| [[http://www.haodyg.com/][好电影狗]]       |
 **** 图书查询
 | [[https://isbnsearch.org/][查ISBN号]]                          |
 | [[https://www.book-info.com/index.htm][book-info.com(图书查询)]]           |
