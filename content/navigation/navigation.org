@@ -183,6 +183,7 @@
 | [[http://app.inker.co/][Inker(矢量图)]]                      |
 | [[https://www.processon.com/][ProcessOn(思维导图流程图等)]]        |
 | [[https://www.suxieban.com/page/note/tools.html][速写板]]                             |
+| [[https://www.anyposes.com/][魔法人偶]]                           |
 | [[https://www.youidraw.com/apps/painter/][YouiDraw]]                           |
 | [[https://www.iodraw.com/][ioDraw(电路图等)]]                   |
 | [[https://imageonline.co/][Imageonline.co(图像处理)]]           |
