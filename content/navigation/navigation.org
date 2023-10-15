@@ -195,6 +195,7 @@
 | [[https://imglarger.com/][AI Image Enlarger(清晰化处理)]]      |
 | [[https://www.autotracer.org/zh.html][Autotracer(矢量图描摹)]]             |
 | [[https://zh.vectormagic.com/][Victor Magic(矢量图描摹)]]           |
+| [[https://vectorizer.ai/][Victorizer.AI]]                      |
 *** 视频相关
 **** 视频提取
 | [[http://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html][m3u8 视频在线提取工具]]           |
