@@ -57,6 +57,7 @@
 | [[https://ruby-doc.org/][Ruby-Doc]]      |
 | [[https://docs.ruby-lang.org/en/][ruby-lang.org]] |
 | [[https://quickref.me/][QuickRef.ME]]   |
+| [[https://hyperpolyglot.org/][Hyperpolygot]]  |
 *** 资源
 | [[https://web.archive.org/][互联网档案库]]   |
 | [[https://archive.org/web/][互联网档案库]]   |
