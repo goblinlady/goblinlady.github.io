@@ -24,6 +24,7 @@
 | [[https://www.urbandictionary.com/][Urban Dictionary]]  |
 | [[https://www.techtarget.com/whatis/][WhatIs(技术词典)]]  |
 | [[https://www.weblio.jp/][Weblio辞書]]        |
+| [[https://kotobank.jp/][コトバンク]]        |
 | [[http://foldoc.org/][FOLDOC]]            |
 | [[https://knowyourmeme.com/][Know Your Meme]]    |
 | [[https://www.stars21.com/][stars21]]           |
