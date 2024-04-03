@@ -11,6 +11,7 @@
 | [[https://translate.google.com/][Google Translate]]     |
 | [[https://www.wiktionary.org/][Wiktionary]]           |
 | [[https://www.bing.com/Translator][Bing Translator]]      |
+| [[https://translate.volcengine.com/][火山翻译]]             |
 | [[https://www.deepl.com/translator][DeepL]]                |
 | [[https://www.merriam-webster.com/][Merriam-Webster]]      |
 | [[https://dictionary.cambridge.org/us/translate/][Combridge Dictionary]] |
