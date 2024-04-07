@@ -19,6 +19,7 @@
 **** 词典
 | [[https://www.bing.com/dict][Bing dict]]         |
 | [[https://youdao.com/][有道]]              |
+| [[https://cn.linguee.com/][Linguee]]           |
 | [[https://www.abbreviations.com/][Abbreviations.com]] |
 | [[https://www.wordhippo.com/][WordHippo]]         |
 | [[https://www.yourdictionary.com/][YourDictionary]]    |
