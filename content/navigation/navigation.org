@@ -29,6 +29,7 @@
 | [[https://www.weblio.jp/][Weblio辞書]]        |
 | [[https://kotobank.jp/][コトバンク]]        |
 | [[https://www.kanjipedia.jp/][漢字ペディア]]      |
+| [[https://kanjitisiki.com/][漢字辞典]]          |
 | [[http://foldoc.org/][FOLDOC]]            |
 | [[https://knowyourmeme.com/][Know Your Meme]]    |
 | [[https://www.stars21.com/][stars21]]           |
