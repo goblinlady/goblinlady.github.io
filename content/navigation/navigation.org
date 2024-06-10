@@ -38,6 +38,7 @@
 | [[https://glosbe.com/][Glosbe]]               |
 | [[https://ilotokipona.com/][ilo toki pona]]        |
 | [[https://la-lojban.github.io/sutysisku/lojban/index.html][logola sutysisku]]     |
+| [[https://ytenx.org/][韻典網]]               |
 | [[https://www.guoxuedashi.com/][国学大师]]             |
 | [[http://www.zdic.net/][汉典]]                 |
 | [[https://www.hanziwu.com/][汉字屋]]               |
