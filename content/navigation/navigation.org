@@ -17,6 +17,7 @@
 | [[https://dictionary.cambridge.org/us/translate/][Combridge Dictionary]] |
 | [[https://www.translate.com/][Translate.com]]        |
 | [[https://www.aies.cn/][繁简转换]]             |
+| [[https://www.jcinfo.net/zh-hans/tools/kanji][中日汉字转换工具]]     |
 **** 词典
 | [[https://www.bing.com/dict][Bing dict]]            |
 | [[https://youdao.com/][有道]]                 |
