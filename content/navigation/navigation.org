@@ -8,50 +8,29 @@
 | [[https://www.bing.com][Bing]]       | [[https://www.baidu.com][屑度]]    |
 *** 多语言
 **** 翻译
-| [[https://translate.google.com/][Google Translate]]     |
-| [[https://www.wiktionary.org/][Wiktionary]]           |
-| [[https://www.bing.com/Translator][Bing Translator]]      |
-| [[https://translate.volcengine.com/][火山翻译]]             |
-| [[https://www.deepl.com/translator][DeepL]]                |
-| [[https://www.merriam-webster.com/][Merriam-Webster]]      |
-| [[https://dictionary.cambridge.org/us/translate/][Combridge Dictionary]] |
-| [[https://www.translate.com/][Translate.com]]        |
-| [[https://www.aies.cn/][繁简转换]]             |
-| [[https://www.jcinfo.net/zh-hans/tools/kanji][中日汉字转换工具]]     |
+| [[https://translate.google.com/][Google Translate]] | [[https://www.merriam-webster.com/][Merriam-Webster]]      |
+| [[https://www.wiktionary.org/][Wiktionary]]       | [[https://dictionary.cambridge.org/us/translate/][Combridge Dictionary]] |
+| [[https://www.bing.com/Translator][Bing Translator]]  | [[https://www.translate.com/][Translate.com]]        |
+| [[https://translate.volcengine.com/][火山翻译]]         | [[https://www.aies.cn/][繁简转换]]             |
+| [[https://www.deepl.com/translator][DeepL]]            | [[https://www.jcinfo.net/zh-hans/tools/kanji][中日汉字转换工具]]     |
 **** 词典
-| [[https://www.bing.com/dict][Bing dict]]            |
-| [[https://youdao.com/][有道]]                 |
-| [[https://cn.linguee.com/][Linguee]]              |
-| [[http://phonicavi.com/dictionary/MCPDict/][漢字古今中外讀音查詢]] |
-| [[https://www.jcinfo.net/zh-hans/tools/kanji][中日汉字转换]]         |
-| [[https://www.abbreviations.com/][Abbreviations.com]]    |
-| [[https://www.wordhippo.com/][WordHippo]]            |
-| [[https://www.yourdictionary.com/][YourDictionary]]       |
-| [[https://www.urbandictionary.com/][Urban Dictionary]]     |
-| [[https://www.techtarget.com/whatis/][WhatIs(技术词典)]]     |
-| [[https://www.weblio.jp/][Weblio辞書]]           |
-| [[https://kotobank.jp/][コトバンク]]           |
-| [[https://www.kanjipedia.jp/][漢字ペディア]]         |
-| [[https://kanjitisiki.com/][漢字辞典]]             |
-| [[http://foldoc.org/][FOLDOC]]               |
-| [[https://knowyourmeme.com/][Know Your Meme]]       |
-| [[https://www.stars21.com/][stars21]]              |
-| [[https://glosbe.com/][Glosbe]]               |
-| [[https://ilotokipona.com/][ilo toki pona]]        |
-| [[https://la-lojban.github.io/sutysisku/lojban/index.html][logola sutysisku]]     |
-| [[https://ytenx.org/][韻典網]]               |
-| [[https://www.guoxuedashi.com/][国学大师]]             |
-| [[http://www.zdic.net/][汉典]]                 |
-| [[https://www.hanziwu.com/][汉字屋]]               |
+| [[https://www.bing.com/dict][Bing dict]]            | [[https://www.kanjipedia.jp/][漢字ペディア]]     |
+| [[https://youdao.com/][有道]]                 | [[https://kanjitisiki.com/][漢字辞典]]         |
+| [[https://cn.linguee.com/][Linguee]]              | [[http://foldoc.org/][FOLDOC]]           |
+| [[http://phonicavi.com/dictionary/MCPDict/][漢字古今中外讀音查詢]] | [[https://knowyourmeme.com/][Know Your Meme]]   |
+| [[https://www.jcinfo.net/zh-hans/tools/kanji][中日汉字转换]]         | [[https://www.stars21.com/][stars21]]          |
+| [[https://www.abbreviations.com/][Abbreviations.com]]    | [[https://glosbe.com/][Glosbe]]           |
+| [[https://www.wordhippo.com/][WordHippo]]            | [[https://ilotokipona.com/][ilo toki pona]]    |
+| [[https://www.yourdictionary.com/][YourDictionary]]       | [[https://la-lojban.github.io/sutysisku/lojban/index.html][logola sutysisku]] |
+| [[https://www.urbandictionary.com/][Urban Dictionary]]     | [[https://ytenx.org/][韻典網]]           |
+| [[https://www.techtarget.com/whatis/][WhatIs(技术词典)]]     | [[https://www.guoxuedashi.com/][国学大师]]         |
+| [[https://www.weblio.jp/][Weblio辞書]]           | [[http://www.zdic.net/][汉典]]             |
+| [[https://kotobank.jp/][コトバンク]]           | [[https://www.hanziwu.com/][汉字屋]]           |
 *** 学术搜索
-| [[https://sci-hub-links.com/][SCI-HUB Links]]   |
-| [[https://arxiv.org/][arXiv]]           |
-| [[https://libgen.li/][Library Genesis]] |
-| [[https://scholar.google.com/][Google学术搜索]]  |
-| [[https://www.ixueshu.com/][爱学术]]          |
-| [[http://www.cqvip.com/][维普网]]          |
-| [[https://www.wanfangdata.com.cn/][垃圾万方]]        |
-| [[https://www.cnki.net/][垃圾知网]]        |
+| [[https://sci-hub-links.com/][SCI-HUB Links]]   | [[https://www.ixueshu.com/][爱学术]]   |
+| [[https://arxiv.org/][arXiv]]           | [[http://www.cqvip.com/][维普网]]   |
+| [[https://libgen.li/][Library Genesis]] | [[https://www.wanfangdata.com.cn/][垃圾万方]] |
+| [[https://scholar.google.com/][Google学术搜索]]  | [[https://www.cnki.net/][垃圾知网]] |
 *** Wiki
 | [[https://wiki.archlinux.org/][ArchWiki]]    |
 | [[https://www.wikidata.org/wiki/Wikidata:Main_Page][Wikidata]]    |
@@ -177,41 +156,27 @@
 | [[https://www.opengps.cn/][openGPS]] |
 *** 平台
 | [[https://www.heroku.com/home][Heroku]] |
-
 ** 多媒体
 *** 图片相关
 **** 搜图
-| [[https://images.google.com][Google图片]]                                            |
-| [[https://saucenao.com/index.php][saucenao(可以搜P站图片)]]                               |
-| [[https://tineye.com/][TinEye]]                                                |
-| [[https://www.bing.com/visualsearch?mkt=zh-CN][Bing视觉]]                                              |
-| [[https://pic.sogou.com/][搜狗识图]]                                              |
-| [[https://gfsoso.soik.top/image.html][谷粉识图]]                                              |
-| [[https://yandex.com/images][Yandex搜图]]                                            |
-| [[https://trace.moe/][trace.moe --Anime Scene Search Engine(搜动画截图出处)]] |
-| [[https://thumbnailsave.com/][Thumbnail Save(搜油管视频封面)]]                        |
-| [[https://www.strerr.com/][YouTube封面下载]]                                       |
-| [[https://graph.baidu.com/pcpage/index?tpl_from=pc][屑度识图]]                                              |
+| [[https://images.google.com][Google图片]]              | [[https://yandex.com/images][Yandex搜图]]                                            |
+| [[https://saucenao.com/index.php][saucenao(可以搜P站图片)]] | [[https://trace.moe/][trace.moe --Anime Scene Search Engine(搜动画截图出处)]] |
+| [[https://tineye.com/][TinEye]]                  | [[https://thumbnailsave.com/][Thumbnail Save(搜油管视频封面)]]                        |
+| [[https://www.bing.com/visualsearch?mkt=zh-CN][Bing视觉]]                | [[https://www.strerr.com/][YouTube封面下载]]                                       |
+| [[https://pic.sogou.com/][搜狗识图]]                | [[https://snapany.com/zh][万能视频图片解析下载]]                                  |
+| [[https://gfsoso.soik.top/image.html][谷粉识图]]                | [[https://graph.baidu.com/pcpage/index?tpl_from=pc][屑度识图]]                                              |
 **** 贴图板
 | [[https://pasteboard.co/][Pasteboard]] |
 | [[https://imgur.com/][imgur]]      |
 **** 画图&图像处理
-| [[http://app.inker.co/][Inker(矢量图)]]                      |
-| [[https://www.processon.com/][ProcessOn(思维导图流程图等)]]        |
-| [[https://www.suxieban.com/page/note/tools.html][速写板]]                             |
-| [[https://www.anyposes.com/][魔法人偶]]                           |
-| [[https://www.youidraw.com/apps/painter/][YouiDraw]]                           |
-| [[https://www.iodraw.com/][ioDraw(电路图等)]]                   |
-| [[https://imageonline.co/][Imageonline.co(图像处理)]]           |
-| [[https://magicstudio.com/magiceraser][Magic Eraser(擦图)]]                 |
-| [[https://www.online-image-editor.com/][Free Online Image Editor(图像处理)]] |
-| [[https://pixlr.com/x/][Pixlr X(图像处理)]]                  |
-| [[https://waifu2x.udp.jp/][waifu2x(清晰化处理)]]                |
-| [[https://bigjpg.com/][Bigjpg(清晰化处理)]]                 |
-| [[https://imglarger.com/][AI Image Enlarger(清晰化处理)]]      |
-| [[https://www.autotracer.org/zh.html][Autotracer(矢量图描摹)]]             |
-| [[https://zh.vectormagic.com/][Victor Magic(矢量图描摹)]]           |
-| [[https://vectorizer.ai/][Victorizer.AI]]                      |
+| [[http://app.inker.co/][Inker(矢量图)]]               | [[https://www.online-image-editor.com/][Free Online Image Editor(图像处理)]] |
+| [[https://www.processon.com/][ProcessOn(思维导图流程图等)]] | [[https://pixlr.com/x/][Pixlr X(图像处理)]]                  |
+| [[https://www.suxieban.com/page/note/tools.html][速写板]]                      | [[https://waifu2x.udp.jp/][waifu2x(清晰化处理)]]                |
+| [[https://www.anyposes.com/][魔法人偶]]                    | [[https://bigjpg.com/][Bigjpg(清晰化处理)]]                 |
+| [[https://www.youidraw.com/apps/painter/][YouiDraw]]                    | [[https://imglarger.com/][AI Image Enlarger(清晰化处理)]]      |
+| [[https://www.iodraw.com/][ioDraw(电路图等)]]            | [[https://www.autotracer.org/zh.html][Autotracer(矢量图描摹)]]             |
+| [[https://imageonline.co/][Imageonline.co(图像处理)]]    | [[https://zh.vectormagic.com/][Victor Magic(矢量图描摹)]]           |
+| [[https://magicstudio.com/magiceraser][Magic Eraser(擦图)]]          | [[https://vectorizer.ai/][Victorizer.AI]]                      |
 *** 视频相关
 **** 视频提取
 | [[http://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html][m3u8 视频在线提取工具]]           |
@@ -342,7 +307,6 @@
 | [[https://nsspot.herokuapp.com/code2pdf/][Convert Source Code to PDF(代码出PDF)]] |
 | [[https://ezgif.com/][EZGIF(GIF编辑)]]                        |
 | [[https://gif-explode.com/][GIF Explode]]                           |
-
 ** 新闻/调查
 *** 新闻
 | [[https://abcnews.go.com/][ABC News(US)]]   |
