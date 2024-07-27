@@ -35,7 +35,7 @@
 | [[https://wiki.archlinux.org/][ArchWiki]]    |
 | [[https://www.wikidata.org/wiki/Wikidata:Main_Page][Wikidata]]    |
 | [[https://thehiddenwiki.org/][Hidden Wiki]] |
-| [[https://wikileaks.org/][WikiLeaks]]   |
+| [[https://www.wikileaks.org/wiki/Wikileaks][WikiLeaks]]   |
 | [[https://www.wikihow.com/Main-Page][wikiHow]]     |
 | [[https://zh.moegirl.org.cn/Mainpage][萌娘百科]]    |
 | [[https://hmoegirl.info/Mainpage][H萌娘]]       |
