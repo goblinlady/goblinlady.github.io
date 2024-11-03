@@ -59,6 +59,7 @@
 | [[https://en.btdig.com/index.htm][BTDigg]]         |
 | [[https://www.noor-book.com/en/][Noor Library]]   |
 | [[https://dokumen.pub/][Dokumen.PUB]]    |
+| [[https://zh.annas-archive.org/][安娜的档案]]     |
 *** 查询
 **** 软件查询
 | [[https://alternativeto.net/][AlternativeTo(查替代软件)]]         |
