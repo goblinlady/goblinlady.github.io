@@ -13,20 +13,18 @@
 | [[https://www.bing.com/Translator][Bing Translator]]  | [[https://www.translate.com/][Translate.com]]        |
 | [[https://translate.volcengine.com/][火山翻译]]         | [[https://www.aies.cn/][繁简转换]]             |
 | [[https://www.deepl.com/translator][DeepL]]            | [[https://www.jcinfo.net/zh-hans/tools/kanji][中日汉字转换工具]]     |
+| [[https://glosbe.com/][Glosbe]]           | [[https://www.jcinfo.net/zh-hans/tools/kanji][中日汉字转换]]         |
 **** 词典
-| [[https://www.bing.com/dict][Bing dict]]            | [[https://kanjitisiki.com/][漢字辞典]]         |
-| [[https://youdao.com/][有道]]                 | [[http://foldoc.org/][FOLDOC]]           |
-| [[https://cn.linguee.com/][Linguee]]              | [[https://knowyourmeme.com/][Know Your Meme]]   |
-| [[http://phonicavi.com/dictionary/MCPDict/][漢字古今中外讀音查詢]] | [[https://www.stars21.com/][stars21]]          |
-| [[https://www.jcinfo.net/zh-hans/tools/kanji][中日汉字转换]]         | [[https://glosbe.com/][Glosbe]]           |
-| [[https://www.abbreviations.com/][Abbreviations.com]]    | [[https://ilotokipona.com/][ilo toki pona]]    |
-| [[https://www.wordhippo.com/][WordHippo]]            | [[https://la-lojban.github.io/sutysisku/lojban/index.html][logola sutysisku]] |
-| [[https://www.yourdictionary.com/][YourDictionary]]       | [[https://ytenx.org/][韻典網]]           |
-| [[https://www.urbandictionary.com/][Urban Dictionary]]     | [[https://www.guoxuedashi.com/][国学大师]]         |
-| [[https://www.techtarget.com/whatis/][WhatIs(技术词典)]]     | [[http://www.zdic.net/][汉典]]             |
-| [[https://www.weblio.jp/][Weblio辞書]]           | [[https://www.hanziwu.com/][汉字屋]]           |
-| [[https://kotobank.jp/][コトバンク]]           | [[https://bishun.net/][笔顺网]]           |
-| [[https://www.kanjipedia.jp/][漢字ペディア]]         |                  |
+| [[https://www.bing.com/dict][Bing dict]]         | [[https://ytenx.org/][韻典網]]               | [[https://kanjitisiki.com/][漢字辞典]]     | [[https://ilotokipona.com/][ilo toki pona]]    |
+| [[https://youdao.com/][有道]]              | [[http://phonicavi.com/dictionary/MCPDict/][漢字古今中外讀音查詢]] | [[https://www.weblio.jp/][Weblio辞書]]   | [[https://la-lojban.github.io/sutysisku/lojban/index.html][logola sutysisku]] |
+| [[https://cn.linguee.com/][Linguee]]           | [[https://www.guoxuedashi.com/][国学大师]]             | [[https://kotobank.jp/][コトバンク]]   | [[https://www.stars21.com/][stars21]]          |
+| [[https://www.abbreviations.com/][Abbreviations.com]] | [[http://www.zdic.net/][汉典]]                 | [[https://www.kanjipedia.jp/][漢字ペディア]] |                  |
+| [[https://www.wordhippo.com/][WordHippo]]         | [[https://www.hanziwu.com/][汉字屋]]               | [[https://mazii.net/zh-CN/search][Mazii]]        |                  |
+| [[https://www.yourdictionary.com/][YourDictionary]]    | [[https://bishun.net/][笔顺网]]               |              |                  |
+| [[https://www.urbandictionary.com/][Urban Dictionary]]  |                      |              |                  |
+| [[https://knowyourmeme.com/][Know Your Meme]]    |                      |              |                  |
+| [[http://foldoc.org/][FOLDOC]]            |                      |              |                  |
+| [[https://www.techtarget.com/whatis/][WhatIs(技术词典)]]  |                      |              |                  |
 *** 学术搜索
 | [[https://sci-hub-links.com/][SCI-HUB Links]]   | [[https://www.ixueshu.com/][爱学术]]   |
 | [[https://arxiv.org/][arXiv]]           | [[http://www.cqvip.com/][维普网]]   |
