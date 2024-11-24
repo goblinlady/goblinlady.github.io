@@ -21,7 +21,7 @@
 | [[https://www.abbreviations.com/][Abbreviations.com]] | [[http://www.zdic.net/][汉典]]                 | [[https://www.kanjipedia.jp/][漢字ペディア]] |                  |
 | [[https://www.wordhippo.com/][WordHippo]]         | [[https://www.hanziwu.com/][汉字屋]]               | [[https://mazii.net/zh-CN/search][Mazii]]        |                  |
 | [[https://www.yourdictionary.com/][YourDictionary]]    | [[https://bishun.net/][笔顺网]]               |              |                  |
-| [[https://www.urbandictionary.com/][Urban Dictionary]]  |                      |              |                  |
+| [[https://www.urbandictionary.com/][Urban Dictionary]]  | [[http://www.shufami.com/][书法迷]]               |              |                  |
 | [[https://knowyourmeme.com/][Know Your Meme]]    |                      |              |                  |
 | [[http://foldoc.org/][FOLDOC]]            |                      |              |                  |
 | [[https://www.techtarget.com/whatis/][WhatIs(技术词典)]]  |                      |              |                  |
