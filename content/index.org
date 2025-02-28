@@ -1,4 +1,4 @@
-#+TITLE: 瑠璃華-nav
+#+TITLE: 覅搞了好𠳝-nav
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 # Change the background of source block.
 #+HTML_HEAD: <style>pre.src{background:#343131;color:white;} </style>
