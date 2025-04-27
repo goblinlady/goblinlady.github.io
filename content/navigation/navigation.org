@@ -11,7 +11,7 @@
 | [[https://translate.google.com/][Google Translate]] | [[https://www.merriam-webster.com/][Merriam-Webster]]      |
 | [[https://www.wiktionary.org/][Wiktionary]]       | [[https://dictionary.cambridge.org/us/translate/][Combridge Dictionary]] |
 | [[https://www.bing.com/Translator][Bing Translator]]  | [[https://www.translate.com/][Translate.com]]        |
-| [[https://translate.volcengine.com/][火山翻译]]         | [[https://www.aies.cn/][繁简转换]]             |
+| [[https://translate.volcengine.com/][火山翻译]]         | [[https://opencc.byvoid.com/][開放中文轉換]]         |
 | [[https://www.deepl.com/translator][DeepL]]            | [[https://www.jcinfo.net/zh-hans/tools/kanji][中日汉字转换工具]]     |
 | [[https://glosbe.com/][Glosbe]]           | [[https://www.jcinfo.net/zh-hans/tools/kanji][中日汉字转换]]         |
 **** 词典
