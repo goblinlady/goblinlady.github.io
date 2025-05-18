@@ -27,6 +27,8 @@
 | [[https://www.techtarget.com/whatis/][WhatIs(技术词典)]]  | [[https://www.shufazidian.com/][書法字典]]             |              |                  |
 |                   | [[https://www.hanzipi.com/][汉字笔顺]]             |              |                  |
 |                   | [[http://www.kaom.net/ny_word.php][古漢語擬音查詢]]       |              |                  |
+|                   | [[https://www.wu-chinese.com/minidict/][吳音小字典]]           |              |                  |
+|                   | [[https://www.wugniu.com/][吳語學堂]]             |              |                  |
 *** 学术搜索
 | [[https://sci-hub-links.com/][SCI-HUB Links]]   | [[https://www.ixueshu.com/][爱学术]]   |
 | [[https://arxiv.org/][arXiv]]           | [[http://www.cqvip.com/][维普网]]   |
