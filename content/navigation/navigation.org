@@ -15,20 +15,28 @@
 | [[https://www.deepl.com/translator][DeepL]]            | [[https://www.jcinfo.net/zh-hans/tools/kanji][中日汉字转换工具]]     |
 | [[https://glosbe.com/][Glosbe]]           | [[https://www.jcinfo.net/zh-hans/tools/kanji][中日汉字转换]]         |
 **** 词典
-| [[https://www.bing.com/dict][Bing dict]]         | [[https://ytenx.org/][韻典網]]               | [[https://kanjitisiki.com/][漢字辞典]]     | [[https://ilotokipona.com/][ilo toki pona]]    |
-| [[https://youdao.com/][有道]]              | [[http://phonicavi.com/dictionary/MCPDict/][漢字古今中外讀音查詢]] | [[https://www.weblio.jp/][Weblio辞書]]   | [[https://la-lojban.github.io/sutysisku/lojban/index.html][logola sutysisku]] |
-| [[https://cn.linguee.com/][Linguee]]           | [[https://www.guoxuedashi.com/][国学大师]]             | [[https://kotobank.jp/][コトバンク]]   | [[https://www.stars21.com/][stars21]]          |
-| [[https://www.abbreviations.com/][Abbreviations.com]] | [[http://www.zdic.net/][汉典]]                 | [[https://www.kanjipedia.jp/][漢字ペディア]] |                  |
-| [[https://www.wordhippo.com/][WordHippo]]         | [[https://www.hanziwu.com/][汉字屋]]               | [[https://mazii.net/zh-CN/search][Mazii]]        |                  |
-| [[https://www.yourdictionary.com/][YourDictionary]]    | [[https://bishun.net/][笔顺网]]               |              |                  |
-| [[https://www.urbandictionary.com/][Urban Dictionary]]  | [[http://www.shufami.com/][书法迷]]               |              |                  |
-| [[https://knowyourmeme.com/][Know Your Meme]]    | [[https://fanjianhuzhuan.bmcx.com/][简繁互转]]             |              |                  |
-| [[http://foldoc.org/][FOLDOC]]            | [[https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/][漢語多功能字庫]]       |              |                  |
-| [[https://www.techtarget.com/whatis/][WhatIs(技术词典)]]  | [[https://www.shufazidian.com/][書法字典]]             |              |                  |
-|                   | [[https://www.hanzipi.com/][汉字笔顺]]             |              |                  |
-|                   | [[http://www.kaom.net/ny_word.php][古漢語擬音查詢]]       |              |                  |
-|                   | [[https://www.wu-chinese.com/minidict/][吳音小字典]]           |              |                  |
-|                   | [[https://www.wugniu.com/][吳語學堂]]             |              |                  |
+***** 漢語
+| 讀音                 | 字形                       |
+|----------------------+----------------------------|
+| [[https://ytenx.org/][韻典網]]               | [[https://www.shufazidian.com/][書法字典]]                   |
+| [[http://www.kaom.net/ny_word.php][古漢語擬音查詢]]       | [[https://www.hanzipi.com/][汉字笔顺]]                   |
+| [[https://www.wu-chinese.com/minidict/][吳音小字典]]           | [[https://bishun.net/][笔顺网]]                     |
+| [[https://www.wugniu.com/][吳語學堂]]             | [[http://www.shufami.com/][书法迷]]                     |
+| [[http://phonicavi.com/dictionary/MCPDict/][漢字古今中外讀音查詢]] | [[https://fanjianhuzhuan.bmcx.com/][简繁互转]]                   |
+| [[https://www.guoxuedashi.com/][国学大师]]             | [[https://www.hanziwu.com/][汉字屋]]                     |
+| [[http://www.zdic.net/][汉典]]                 | [[https://chardb.iis.sinica.edu.tw/][國際電腦漢字及異體字知識庫]] |
+| [[https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/][漢語多功能字庫]]       |                            |
+***** 其它
+| [[https://www.bing.com/dict][Bing dict]]         | [[https://kanjitisiki.com/][漢字辞典]]     | [[https://ilotokipona.com/][ilo toki pona]]    |
+| [[https://youdao.com/][有道]]              | [[https://www.weblio.jp/][Weblio辞書]]   | [[https://la-lojban.github.io/sutysisku/lojban/index.html][logola sutysisku]] |
+| [[https://cn.linguee.com/][Linguee]]           | [[https://kotobank.jp/][コトバンク]]   | [[https://www.stars21.com/][stars21]]          |
+| [[https://www.abbreviations.com/][Abbreviations.com]] | [[https://www.kanjipedia.jp/][漢字ペディア]] |                  |
+| [[https://www.wordhippo.com/][WordHippo]]         | [[https://mazii.net/zh-CN/search][Mazii]]        |                  |
+| [[https://www.yourdictionary.com/][YourDictionary]]    |              |                  |
+| [[https://www.urbandictionary.com/][Urban Dictionary]]  |              |                  |
+| [[https://knowyourmeme.com/][Know Your Meme]]    |              |                  |
+| [[http://foldoc.org/][FOLDOC]]            |              |                  |
+| [[https://www.techtarget.com/whatis/][WhatIs(技术词典)]]  |              |                  |
 *** 学术搜索
 | [[https://sci-hub-links.com/][SCI-HUB Links]]   | [[https://www.ixueshu.com/][爱学术]]   |
 | [[https://arxiv.org/][arXiv]]           | [[http://www.cqvip.com/][维普网]]   |
