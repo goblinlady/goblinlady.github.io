@@ -57,6 +57,8 @@
 | [[https://www.softwarepreservation.org/][Software Preservation Group]] |
 | [[https://libretexts.org/][LibreTexts]]                  |
 | [[https://www.hathitrust.org/][HathiTrust]]                  |
+| [[https://guji.nlc.cn/][中國古籍智慧化服務平臺]]      |
+| [[https://www.shuge.org/][書格]]                        |
 *** 文檔
 | [[https://ruby-doc.org/][Ruby-Doc]]      |
 | [[https://docs.ruby-lang.org/en/][ruby-lang.org]] |
