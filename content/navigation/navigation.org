@@ -1,20 +1,20 @@
-* 导航
-** 资料搜索
+* 導航
+** 資料搜索
 *** 搜索引擎
 | [[https://duckduckgo.com/][DuckDuckGo]] | [[https://www.google.com][Google]]  |
 | [[https://searx.work/][SearXNG]]    | [[https://search.ononoki.org][SearXNG]] |
 | [[https://yandex.com/][Yandex]]     | [[https://searx.thegpm.org/][searX]]   |
 | [[https://www.qwant.com/][Qwant]]      | [[https://neeva.com/][neeva]]   |
 | [[https://www.bing.com][Bing]]       | [[https://www.baidu.com][屑度]]    |
-*** 多语言
-**** 翻译
+*** 多語言
+**** 翻譯
 | [[https://translate.google.com/][Google Translate]] | [[https://www.merriam-webster.com/][Merriam-Webster]]      |
 | [[https://www.wiktionary.org/][Wiktionary]]       | [[https://dictionary.cambridge.org/us/translate/][Combridge Dictionary]] |
 | [[https://www.bing.com/Translator][Bing Translator]]  | [[https://www.translate.com/][Translate.com]]        |
 | [[https://translate.volcengine.com/][火山翻译]]         | [[https://opencc.byvoid.com/][開放中文轉換]]         |
 | [[https://www.deepl.com/translator][DeepL]]            | [[https://www.jcinfo.net/zh-hans/tools/kanji][中日汉字转换工具]]     |
 | [[https://glosbe.com/][Glosbe]]           | [[https://www.jcinfo.net/zh-hans/tools/kanji][中日汉字转换]]         |
-**** 词典
+**** 詞典
 ***** 漢語
 | 讀音                 | 字形                       |
 |----------------------+----------------------------|
@@ -37,7 +37,7 @@
 | [[https://knowyourmeme.com/][Know Your Meme]]    |              |                  |
 | [[http://foldoc.org/][FOLDOC]]            |              |                  |
 | [[https://www.techtarget.com/whatis/][WhatIs(技术词典)]]  |              |                  |
-*** 学术搜索
+*** 學術搜索
 | [[https://sci-hub-links.com/][SCI-HUB Links]]   | [[https://www.ixueshu.com/][爱学术]]   |
 | [[https://arxiv.org/][arXiv]]           | [[http://www.cqvip.com/][维普网]]   |
 | [[https://libgen.li/][Library Genesis]] | [[https://www.wanfangdata.com.cn/][垃圾万方]] |
@@ -50,19 +50,19 @@
 | [[https://www.wikihow.com/Main-Page][wikiHow]]     |
 | [[https://zh.moegirl.org.cn/Mainpage][萌娘百科]]    |
 | [[https://hmoegirl.info/Mainpage][H萌娘]]       |
-*** 专业性图书馆
+*** 專業性圖書館
 | [[https://www.marxists.org/chinese/][中文马克思主义文库]]          |
 | [[https://theanarchistlibrary.org/special/index/][The Anarchist Library]]       |
 | [[https://freecomputerbooks.com/][FreeComputerBooks.com]]       |
 | [[https://www.softwarepreservation.org/][Software Preservation Group]] |
 | [[https://libretexts.org/][LibreTexts]]                  |
 | [[https://www.hathitrust.org/][HathiTrust]]                  |
-*** 文档
+*** 文檔
 | [[https://ruby-doc.org/][Ruby-Doc]]      |
 | [[https://docs.ruby-lang.org/en/][ruby-lang.org]] |
 | [[https://quickref.me/][QuickRef.ME]]   |
 | [[https://hyperpolyglot.org/][Hyperpolygot]]  |
-*** 资源
+*** 資源
 | [[https://web.archive.org/][互联网档案库]]   |
 | [[https://archive.org/web/][互联网档案库]]   |
 | [[https://jingzhunyun.com/][精准云工具]]     |
@@ -72,28 +72,28 @@
 | [[https://www.noor-book.com/en/][Noor Library]]   |
 | [[https://dokumen.pub/][Dokumen.PUB]]    |
 | [[https://zh.annas-archive.org/][安娜的档案]]     |
-*** 查询
-**** 软件查询
+*** 查詢
+**** 軟件查詢
 | [[https://alternativeto.net/][AlternativeTo(查替代软件)]]         |
 | [[https://www.topbestalternatives.com/][Top Best Alternatives(查替代软件)]] |
 | [[https://fileinfo.com/][FileInfo.com(查文件类型)]]          |
 | [[https://www.fileformat.com/][FILEFORMAT(查文件类型)]]            |
-**** 游戏查询
-| [[https://www.gamesdatabase.org/][Games Database(游戏查询)]]          |
-| [[https://myvideogamelist.com/][MyVideoGameList.com(游戏查询)]]     |
-| [[https://www.igdb.com/discover][IGDB(游戏查询)]]                    |
-| [[https://steampeek.hu/][SteamPeak(游戏查询)]]               |
-**** 动画查询
-| [[https://anidb.net/][AniDB(动画查询)]]                   |
-| [[https://myanimelist.net/][MyAnimeList(动画查询)]]             |
-| [[https://anilist.co/][AniList(动画查询)]]                 |
-**** 影视查询
-| [[https://www.imdb.com/][IMDB(电影查询)]] |
+**** 遊戲查詢
+| [[https://www.gamesdatabase.org/][Games Database(游戏查詢)]]          |
+| [[https://myvideogamelist.com/][MyVideoGameList.com(游戏查詢)]]     |
+| [[https://www.igdb.com/discover][IGDB(遊戲查詢)]]                    |
+| [[https://steampeek.hu/][SteamPeak(遊戲查詢)]]               |
+**** 動畫查詢
+| [[https://anidb.net/][AniDB(動畫查詢)]]                   |
+| [[https://myanimelist.net/][MyAnimeList(動畫查詢)]]             |
+| [[https://anilist.co/][AniList(動畫查詢)]]                 |
+**** 影視查詢
+| [[https://www.imdb.com/][IMDB(電影查詢)]] |
 | [[http://www.haodyg.com/][好电影狗]]       |
-**** 图书查询
+**** 圖書查詢
 | [[https://isbnsearch.org/][查ISBN号]]                          |
-| [[https://www.book-info.com/index.htm][book-info.com(图书查询)]]           |
-**** 其它查询
+| [[https://www.book-info.com/index.htm][book-info.com(圖書查詢)]]           |
+**** 其它查詢
 | [[https://gs.statcounter.com/][Statcounter]]            |
 | [[https://myoji-yurai.net/][名字検索(日文名查询)]]   |
 | [[https://name.sijisuru.com/][なまえさあち(姓名搜索)]] |
@@ -105,9 +105,9 @@
 | [[https://www.ranker.com/][Ranker(各种排名)]]       |
 | [[https://www.slant.co/][Slant(产品排名)]]        |
 | [[https://linux-hardware.org/][Hardware for Linux]]     |
-** 计算机相关
-*** 代码相关
-**** 代码托管
+** 計算機相關
+*** 代碼相關
+**** 代碼託管
 | [[https://github.com/][Github]] |
 | [[https://about.gitlab.com/][GitLab]] |
 | [[https://gitee.com/][码云]]   |
@@ -147,41 +147,41 @@
 | [[https://www.makeareadme.com/][Make a README]]                   |
 | [[https://rahuldkjain.github.io/gh-profile-readme-generator/][GitHub Profile README Generator]] |
 | [[https://choosealicense.com/][Choose an open source license]]   |
-*** 库
+*** 庫
 | [[https://rubygems.org/][RubyGems]]                |
 | [[https://gems.ruby-china.com/][RubyGems中文镜像站]]      |
 | [[https://gpo.zugaina.org/][Gentoo Portage Overlays]] |
-*** 文本分享&输入
+*** 文本分享&輸入
 | [[https://pastebin.ubuntu.com/][Ubuntu Pastebin]]  |
 | [[https://pastebin.com/][Pastebin.com]]     |
 | [[https://gate2home.com/][Gate2Home]]        |
 | [[https://www.lexilogos.com/keyboard/index.htm][LEXILOGOS]]        |
 | [[https://symbl.cc/en/][Unicode 字符百科]] |
 | [[https://getemoji.com/][Get Emoji]]        |
-*** 网络工具
+*** 網絡工具
 **** IP地址
 | [[https://whatismyipaddress.com/][What Is My IP Address]] |
 | [[https://www.ipaddress.my/][IPAddress.my]]          |
-**** 赛博生活
+**** 賽博生活
 | [[https://www.shodan.io/][Shodan]]  |
 | [[https://www.zoomeye.org/][ZoomEye]] |
 | [[https://en.fofa.info/][FOFA]]    |
 | [[https://www.opengps.cn/][openGPS]] |
-*** 平台
+*** 平臺
 | [[https://www.heroku.com/home][Heroku]] |
-** 多媒体
-*** 图片相关
-**** 搜图
+** 多媒體
+*** 圖片相關
+**** 搜圖
 | [[https://images.google.com][Google图片]]              | [[https://yandex.com/images][Yandex搜图]]                                            |
 | [[https://saucenao.com/index.php][saucenao(可以搜P站图片)]] | [[https://trace.moe/][trace.moe --Anime Scene Search Engine(搜动画截图出处)]] |
 | [[https://tineye.com/][TinEye]]                  | [[https://thumbnailsave.com/][Thumbnail Save(搜油管视频封面)]]                        |
 | [[https://www.bing.com/visualsearch?mkt=zh-CN][Bing视觉]]                | [[https://www.strerr.com/][YouTube封面下载]]                                       |
 | [[https://pic.sogou.com/][搜狗识图]]                | [[https://snapany.com/zh][万能视频图片解析下载]]                                  |
 | [[https://gfsoso.soik.top/image.html][谷粉识图]]                | [[https://graph.baidu.com/pcpage/index?tpl_from=pc][屑度识图]]                                              |
-**** 贴图板
+**** 貼圖板
 | [[https://pasteboard.co/][Pasteboard]] |
 | [[https://imgur.com/][imgur]]      |
-**** 画图&图像处理
+**** 畫圖&圖像處理
 | [[http://app.inker.co/][Inker(矢量图)]]               | [[https://www.online-image-editor.com/][Free Online Image Editor(图像处理)]] |
 | [[https://www.processon.com/][ProcessOn(思维导图流程图等)]] | [[https://pixlr.com/x/][Pixlr X(图像处理)]]                  |
 | [[https://www.suxieban.com/page/note/tools.html][速写板]]                      | [[https://waifu2x.udp.jp/][waifu2x(清晰化处理)]]                |
@@ -190,20 +190,20 @@
 | [[https://www.iodraw.com/][ioDraw(电路图等)]]            | [[https://www.autotracer.org/zh.html][Autotracer(矢量图描摹)]]             |
 | [[https://imageonline.co/][Imageonline.co(图像处理)]]    | [[https://zh.vectormagic.com/][Victor Magic(矢量图描摹)]]           |
 | [[https://magicstudio.com/magiceraser][Magic Eraser(擦图)]]          | [[https://vectorizer.ai/][Victorizer.AI]]                      |
-*** 视频相关
-**** 视频提取
+*** 視頻相關
+**** 視頻提取
 | [[http://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html][m3u8 视频在线提取工具]]           |
 | [[https://www.savetweetvid.com/zh][savetweetvid(Twitter视频下载器)]] |
 | [[https://www.getfvid.com/zh/twitter][getfvid(Twitter视频下载器)]]      |
 | [[https://pastedownload.com/29/][Video Downloader]]                |
 | [[https://ssyoutube.com/en565/][Online Video Downloader]]         |
 | [[https://bili.iiilab.com/][哔哩哔哩视频解析下载]]            |
-*** 音频相关
-**** 声音
+*** 音頻相關
+**** 聲音
 | [[https://www.lalal.ai/][LALAL.AI]]   |
 | [[https://www.mp3juices.cc/f82][MP3 Juice]]  |
 | [[https://www.findsounds.com/][FindSounds]] |
-**** 音乐
+**** 音樂
 | [[https://qiuxiang.github.io/tuner/app/][Online Tuner]]       |
 | [[https://tuner-online.com/][Tuner-Online.com]]   |
 | [[https://www.imusic-school.com/en/][imusic-school]]      |
@@ -229,24 +229,24 @@
 | [[https://www.turbosquid.com/][TurboSquid]] |
 | [[https://3dhunt.co/][3DHunt.co]]  |
 | [[https://grabcad.com/][GrabCAD]]    |
-*** 宇宙万物
-**** 物种相关
+*** 宇宙萬物
+**** 物種相關
 | [[https://identify.plantnet.org][Pl@ntNet(植物识别)]] |
 | [[https://animal.buyaocha.com/][动物在线识别]]       |
 | [[http://shibietu.wwei.cn/][识别图]]             |
 | [[https://www.toolnb.com/tools/dongwushibie.html][动物图片识别]]       |
 | [[https://www.onezoom.org/][OneZoom(物种树)]]    |
-**** 地图/海图/航线
+**** 地圖/海圖/航線
 | [[https://www.google.com/maps/][Google Maps]]  |
 | [[https://earth.google.com/web/][Google Earth]] |
 | [[https://map.openseamap.org/][OpenSeaMap]]   |
 **** 天文
 | [[https://www.theplanetstoday.com/the_planets.html][The Planets Today]] |
-**** 时间
+**** 時間
 | [[https://time.is/][TIME.IS]]             |
 | [[https://www.timezoneconverter.com/][Time Zone Converter]] |
 | [[https://www.foragoodstrftime.com/][For a Good Strftime]] |
-*** 综合素材
+*** 綜合素材
 | [[https://opengameart.org/][OpenGameArt.org]]    |
 | [[https://www.shutterstock.com/][Shutterstock]]       |
 | [[https://file-examples.com/][File Examples]]      |
@@ -254,26 +254,27 @@
 | [[https://ip.e-dunhuang.com/][数字敦煌开放素材库]] |
 | [[https://www.fonts.net.cn/][字体天下]]           |
 | [[https://www.maoken.com/][猫啃网]]             |
-*** 数码生活
-**** 密码管理
+| [[http://www.godfont.com/][字神國風書法字體]]   |
+*** 數碼生活
+**** 密碼管理
 | [[https://web.padloc.app][Padloc]] |
-**** 云服务
+**** 雲服務
 | [[https://aws.amazon.com/][AWS]] |
-**** 网盘
+**** 網盤
 | [[https://my.pcloud.com/][pCloud]] |
 | [[https://www.jianguoyun.com/][坚果云]] |
 | [[https://mega.io/zh-hans][MEGA]]   |
 | [[https://pan.baidu.com/][度盘]]   |
-** 写作/文创
-*** 数学相关
-**** 数学编辑
+** 寫作/文創
+*** 數學相關
+**** 數學編輯
 | [[https://www.mathcha.io/editor][Mathcha]]                      |
 | [[https://editor.codecogs.com/][Online LaTeX Equation Editor]] |
 | [[https://viereck.ch/latex-to-svg/][LaTeX to SVG]]                 |
 | [[https://www.geogebra.org/m/jjmwgjp4][Convert LaTeX to SVG]]         |
 | [[http://www.tlhiv.org/ltxpreview/][LaTeX Previewer]]              |
 | [[https://www.overleaf.com/][Overleaf]]                     |
-**** 数学计算工具
+**** 數學計算工具
 | [[https://www.numberempire.com/][Number Empire]]         |
 | [[https://zh.numberempire.com/][数字帝国中文]]          |
 | [[https://www.mathway.com/Algebra][Mathway(按步骤解题)]]   |
@@ -281,7 +282,7 @@
 | [[https://www.derivative-calculator.net/][Derivative Calculator]] |
 | [[https://reshish.com/][Reshish]]               |
 | [[https://www.desmos.com/calculator][Desmos(图像计算)]]      |
-**** 生成数据
+**** 生成數據
 | [[https://www.mockaroo.com/][Mokaroo]]            |
 | [[http://www.hipenpal.com/tool/][Hi!Penpal!]]         |
 | [[https://www.qmsjmfb.com/jp.php][日文网名在线生成器]] |
@@ -289,11 +290,11 @@
 | [[https://www.gushici.com/cyjl][成语接龙]]           |
 | [[https://www.meiguodizhi.com/][美国地址生成器]]     |
 | [[https://suulnnka.github.io/BullshitGenerator/index.html][狗屁不通文章生成器]] |
-**** 数据分析&可视化
+**** 數據分析&可視化
 | [[https://www.rawgraphs.io/][RAWGraphs]]  |
 | [[https://www.meta-chart.com/][Meta-Chart]] |
-*** 写作相关
-**** 写作
+*** 寫作相關
+**** 寫作
 | [[https://www.bibme.org/][BibMe]]            |
 | [[https://www.citationmachine.net/][Citation Machine]] |
 **** 演示
@@ -302,7 +303,7 @@
 | [[https://www.overleaf.com/][Overleaf]]         |
 | [[http://www.tlhiv.org/ltxpreview/][LaTeX Previewer]]  |
 | [[https://www.tablesgenerator.com][Tables Generator]] |
-*** 文件处理
+*** 文件處理
 | [[https://www.vertopal.com/][Vertopal(文件转换)]]                    |
 | [[https://onlinecsvtools.com/][Online CSV Tools]]                      |
 | [[https://www.splitcsv.com/][SplitCSV]]                              |
@@ -324,12 +325,12 @@
 | [[https://nsspot.herokuapp.com/code2pdf/][Convert Source Code to PDF(代码出PDF)]] |
 | [[https://ezgif.com/][EZGIF(GIF编辑)]]                        |
 | [[https://gif-explode.com/][GIF Explode]]                           |
-** 新闻/调查
-*** 新闻
+** 新聞/調查
+*** 新聞
 | [[https://abcnews.go.com/][ABC News(US)]]   |
 | [[https://www.bbc.com/zhongwen/simp][BBC News中文]]   |
 | [[https://www.abc.net.au/news][ABC News(AU)]]   |
 | [[https://freecomputerbooks.com/read/chinese.html][中英文网址小集]] |
-*** 数据来源
+*** 數據來源
 | [[https://ourworldindata.org/][Our World in Data]] |
 | [[https://www.top500.org/][TOP500]]            |
