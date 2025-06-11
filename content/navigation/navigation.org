@@ -16,16 +16,15 @@
 | [[https://glosbe.com/][Glosbe]]           | [[https://www.jcinfo.net/zh-hans/tools/kanji][中日汉字转换]]         |
 **** 詞典
 ***** 漢語
-| 讀音                 | 字形                       |
-|----------------------+----------------------------|
-| [[https://ytenx.org/][韻典網]]               | [[https://www.shufazidian.com/][書法字典]]                   |
-| [[http://www.kaom.net/ny_word.php][古漢語擬音查詢]]       | [[https://www.hanzipi.com/][汉字笔顺]]                   |
-| [[https://www.wu-chinese.com/minidict/][吳音小字典]]           | [[https://bishun.net/][笔顺网]]                     |
-| [[https://www.wugniu.com/][吳語學堂]]             | [[http://www.shufami.com/][书法迷]]                     |
-| [[http://phonicavi.com/dictionary/MCPDict/][漢字古今中外讀音查詢]] | [[https://fanjianhuzhuan.bmcx.com/][简繁互转]]                   |
-| [[https://www.guoxuedashi.com/][国学大师]]             | [[https://www.hanziwu.com/][汉字屋]]                     |
-| [[http://www.zdic.net/][汉典]]                 | [[https://chardb.iis.sinica.edu.tw/][國際電腦漢字及異體字知識庫]] |
-| [[https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/][漢語多功能字庫]]       |                            |
+| 讀音                 | 字形                       | 字義           |
+|----------------------+----------------------------+----------------|
+| [[https://ytenx.org/][韻典網]]               | [[https://www.shufazidian.com/][書法字典]]                   | [[https://www.kangxizidian.com/index.php][康熙字典網上版]] |
+| [[http://www.kaom.net/ny_word.php][古漢語擬音查詢]]       | [[https://chardb.iis.sinica.edu.tw/][國際電腦漢字及異體字知識庫]] | [[http://www.zdic.net/][漢典]]           |
+| [[https://www.wu-chinese.com/minidict/][吳音小字典]]           | [[https://www.hanzipi.com/][汉字笔顺]]                   |                |
+| [[https://www.wugniu.com/][吳語學堂]]             | [[https://bishun.net/][笔顺网]]                     |                |
+| [[http://phonicavi.com/dictionary/MCPDict/][漢字古今中外讀音查詢]] | [[http://www.shufami.com/][书法迷]]                     |                |
+| [[https://www.guoxuedashi.com/][国学大师]]             | [[https://fanjianhuzhuan.bmcx.com/][简繁互转]]                   |                |
+| [[https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/][漢語多功能字庫]]       | [[https://www.hanziwu.com/][汉字屋]]                     |                |
 ***** 其它
 | [[https://www.bing.com/dict][Bing dict]]         | [[https://kanjitisiki.com/][漢字辞典]]     | [[https://ilotokipona.com/][ilo toki pona]]    |
 | [[https://youdao.com/][有道]]              | [[https://www.weblio.jp/][Weblio辞書]]   | [[https://la-lojban.github.io/sutysisku/lojban/index.html][logola sutysisku]] |
